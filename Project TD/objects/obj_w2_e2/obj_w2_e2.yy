@@ -1,16 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_WaveManager",
+  "%Name":"obj_w2_e2",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_WaveManager",
+  "name":"obj_w2_e2",
   "overriddenProperties":[],
   "parent":{
-    "name":"Managers",
-    "path":"folders/Objects/Managers.yy",
+    "name":"Wave2",
+    "path":"folders/Objects/Waves/Wave2.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Apfel64x64",
+    "path":"sprites/Apfel64x64/Apfel64x64.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
