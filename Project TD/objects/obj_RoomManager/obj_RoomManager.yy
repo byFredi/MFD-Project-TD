@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_WaveManager",
+  "%Name":"obj_RoomManager",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_WaveManager",
+  "name":"obj_RoomManager",
   "overriddenProperties":[],
   "parent":{
     "name":"Managers",

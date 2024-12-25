@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_enemy1",
-  "eventList":[],
+  "%Name":"obj_w2_e5",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_enemy1",
+  "name":"obj_w2_e5",
   "overriddenProperties":[],
   "parent":{
-    "name":"Towers",
-    "path":"folders/Objects/Towers.yy",
+    "name":"Wave2",
+    "path":"folders/Objects/Waves/Wave2.yy",
   },
   "parentObjectId":null,
   "persistent":false,
