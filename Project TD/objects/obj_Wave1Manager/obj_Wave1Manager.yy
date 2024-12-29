@@ -10,7 +10,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Wave1",
-    "path":"folders/Objects/Waves/Wave1.yy",
+    "path":"folders/Objects/Game/Waves/Wave1.yy",
   },
   "parentObjectId":null,
   "persistent":false,

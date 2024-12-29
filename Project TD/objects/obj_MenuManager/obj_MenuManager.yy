@@ -2,14 +2,14 @@
   "$GMObject":"",
   "%Name":"obj_MenuManager",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_MenuManager",
   "overriddenProperties":[],
   "parent":{
     "name":"Managers",
-    "path":"folders/Objects/Managers.yy",
+    "path":"folders/Objects/Game/Managers.yy",
   },
   "parentObjectId":null,
   "persistent":false,

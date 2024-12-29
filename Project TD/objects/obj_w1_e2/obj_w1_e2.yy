@@ -1,17 +1,18 @@
 {
   "$GMObject":"",
   "%Name":"obj_w1_e2",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"obj_w1_e2",
   "overriddenProperties":[],
   "parent":{
     "name":"Wave1",
-    "path":"folders/Objects/Waves/Wave1.yy",
+    "path":"folders/Objects/Game/Waves/Wave1.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_e1_parent",
+    "path":"objects/obj_e1_parent/obj_e1_parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

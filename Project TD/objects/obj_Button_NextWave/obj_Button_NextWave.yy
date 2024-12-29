@@ -9,8 +9,8 @@
   "name":"obj_Button_NextWave",
   "overriddenProperties":[],
   "parent":{
-    "name":"Game",
-    "path":"folders/Objects/Game.yy",
+    "name":"Buttons",
+    "path":"folders/Objects/Game/Overlay/Buttons.yy",
   },
   "parentObjectId":null,
   "persistent":false,

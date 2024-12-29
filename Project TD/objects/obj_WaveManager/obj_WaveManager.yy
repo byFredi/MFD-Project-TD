@@ -9,8 +9,8 @@
   "name":"obj_WaveManager",
   "overriddenProperties":[],
   "parent":{
-    "name":"Managers",
-    "path":"folders/Objects/Managers.yy",
+    "name":"GameFunction",
+    "path":"folders/Objects/Game/Managers/GameFunction.yy",
   },
   "parentObjectId":null,
   "persistent":false,
