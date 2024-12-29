@@ -129,7 +129,14 @@ if(obj_WaveManager.currentEnemy == 4){	/// @DnDAction : YoYo Games.Instances.I
 			/// @DnDAction : YoYo Games.Common.Variable
 			/// @DnDVersion : 1
 			/// @DnDHash : 09824A5B
+			/// @DnDInput : 3
 			/// @DnDParent : 3B665C97
 			/// @DnDArgument : "expr" "true"
+			/// @DnDArgument : "expr_1" "1"
+			/// @DnDArgument : "expr_relative_1" "1"
 			/// @DnDArgument : "var" "e4Spawned"
-			e4Spawned = true;}}}
+			/// @DnDArgument : "var_1" "obj_WaveManager.currentWave"
+			/// @DnDArgument : "var_2" "obj_WaveManager.currentEnemy"
+			e4Spawned = true;
+			obj_WaveManager.currentWave += 1;
+			obj_WaveManager.currentEnemy = 0;}}}

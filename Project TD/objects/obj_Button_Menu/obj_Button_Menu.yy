@@ -8,8 +8,8 @@
   "name":"obj_Button_Menu",
   "overriddenProperties":[],
   "parent":{
-    "name":"Game",
-    "path":"folders/Objects/Game.yy",
+    "name":"Buttons",
+    "path":"folders/Objects/Game/Overlay/Buttons.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite3",
-    "path":"sprites/Sprite3/Sprite3.yy",
+    "name":"Home",
+    "path":"sprites/Home/Home.yy",
   },
   "spriteMaskId":null,
   "visible":true,
