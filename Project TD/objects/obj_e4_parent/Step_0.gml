@@ -17,3 +17,11 @@ if(hp <= 0){	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDHash : 020E6A55
 	/// @DnDParent : 06EB3D53
 	instance_destroy();}
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 03CDB87B
+/// @DnDArgument : "expr" "0.01"
+/// @DnDArgument : "expr_relative" "1"
+/// @DnDArgument : "var" "path_speed"
+path_speed += 0.01;

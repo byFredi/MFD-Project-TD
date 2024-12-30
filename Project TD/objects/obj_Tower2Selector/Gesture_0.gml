@@ -1,6 +1,7 @@
 /// @DnDAction : YoYo Games.Data Structures.Map_Get_Value
 /// @DnDVersion : 1
 /// @DnDHash : 5FCDBFAD
+/// @DnDComment : New tower adjust
 /// @DnDArgument : "assignee" "price"
 /// @DnDArgument : "var" "obj_TowerSelectorManager.towerPrice"
 /// @DnDArgument : "key" "2"

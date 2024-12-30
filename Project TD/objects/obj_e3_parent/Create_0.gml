@@ -9,7 +9,7 @@ hp = 20;
 /// @DnDVersion : 1.1
 /// @DnDHash : 25C53672
 /// @DnDArgument : "path" "path_1"
-/// @DnDArgument : "speed" "4"
+/// @DnDArgument : "speed" "6"
 /// @DnDArgument : "relative" "true"
 /// @DnDSaveInfo : "path" "path_1"
-path_start(path_1, 4, path_action_stop, true);
+path_start(path_1, 6, path_action_stop, true);

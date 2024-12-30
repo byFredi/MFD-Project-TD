@@ -28,17 +28,32 @@ if(tile == 12){	/// @DnDAction : YoYo Games.Common.Variable
 	if(validPlacement){	/// @DnDAction : YoYo Games.Common.If_Variable
 		/// @DnDVersion : 1
 		/// @DnDHash : 3EA150E7
+		/// @DnDComment : New tower adjust
 		/// @DnDParent : 04AFA077
 		/// @DnDArgument : "var" "id"
 		/// @DnDArgument : "value" "obj_Tower2Selector.currentInstance"
 		if(id == obj_Tower2Selector.currentInstance){	/// @DnDAction : YoYo Games.Common.Variable
 			/// @DnDVersion : 1
 			/// @DnDHash : 0D0D6905
-			/// @DnDInput : 2
+			/// @DnDComment : New tower adjust
+			/// @DnDInput : 3
 			/// @DnDParent : 3EA150E7
 			/// @DnDArgument : "expr" "false"
 			/// @DnDArgument : "expr_1" "noone"
+			/// @DnDArgument : "expr_2" "true"
 			/// @DnDArgument : "var" "placemode"
 			/// @DnDArgument : "var_1" "obj_Tower2Selector.currentInstance"
+			/// @DnDArgument : "var_2" "isPlaced"
 			placemode = false;
-			obj_Tower2Selector.currentInstance = noone;}}}
+			obj_Tower2Selector.currentInstance = noone;
+			isPlaced = true;
+		
+			/// @DnDAction : YoYo Games.Instances.Set_Sprite
+			/// @DnDVersion : 1
+			/// @DnDHash : 66872669
+			/// @DnDComment : New tower adjust
+			/// @DnDParent : 3EA150E7
+			/// @DnDArgument : "spriteind" "WitchAni"
+			/// @DnDSaveInfo : "spriteind" "WitchAni"
+			sprite_index = WitchAni;
+			image_index = 0;}}}
