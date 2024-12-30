@@ -14,8 +14,8 @@
   "frames":[
     {"$GMSpriteFrame":"","%Name":"31ca30f9-8ed9-48a0-90fe-066c0ac9f04e","name":"31ca30f9-8ed9-48a0-90fe-066c0ac9f04e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
-  "gridX":0,
-  "gridY":0,
+  "gridX":8,
+  "gridY":8,
   "height":64,
   "HTile":false,
   "layers":[
@@ -27,8 +27,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"TowerSprites",
+    "path":"folders/Sprites/TowerSprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -12,7 +12,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Killzone",
-    "path":"folders/Objects/Game/Waves/Killzone.yy",
+    "path":"folders/Objects/Game/Killzone.yy",
   },
   "parentObjectId":null,
   "persistent":false,

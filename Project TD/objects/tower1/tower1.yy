@@ -42,8 +42,8 @@
   "solid":false,
   "spriteId":null,
   "spriteMaskId":{
-    "name":"RitterColli2",
-    "path":"sprites/RitterColli2/RitterColli2.yy",
+    "name":"RitterSpeer",
+    "path":"sprites/RitterSpeer/RitterSpeer.yy",
   },
   "visible":true,
 }

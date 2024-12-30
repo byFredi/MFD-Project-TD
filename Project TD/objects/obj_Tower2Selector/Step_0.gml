@@ -1,6 +1,7 @@
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
 /// @DnDHash : 73F4F376
+/// @DnDComment : New tower adjust
 /// @DnDArgument : "var" "obj_TowerSelectorManager.tower2Revealed"
 /// @DnDArgument : "value" "true"
 if(obj_TowerSelectorManager.tower2Revealed == true){	/// @DnDAction : YoYo Games.Instances.Set_Sprite
