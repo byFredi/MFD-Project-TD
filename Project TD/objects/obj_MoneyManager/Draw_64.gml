@@ -11,5 +11,5 @@ draw_text(0, 80, string("Money: ") + string(money));
 /// @DnDHash : 2FE9135E
 /// @DnDArgument : "y" "95"
 /// @DnDArgument : "caption" ""Lives: ""
-/// @DnDArgument : "var" "playerhp"
-draw_text(0, 95, string("Lives: ") + string(playerhp));
+/// @DnDArgument : "var" "playerHP"
+draw_text(0, 95, string("Lives: ") + string(playerHP));

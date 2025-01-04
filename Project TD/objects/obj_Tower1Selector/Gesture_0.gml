@@ -24,8 +24,9 @@ if(obj_MoneyManager.money >= price){	/// @DnDAction : YoYo Games.Common.If_Var
 		/// @DnDParent : 10EE292F
 		/// @DnDArgument : "var" "currentInstance"
 		/// @DnDArgument : "objectid" "tower1"
+		/// @DnDArgument : "layer" ""Towers""
 		/// @DnDSaveInfo : "objectid" "tower1"
-		currentInstance = instance_create_layer(0, 0, "Instances", tower1);
+		currentInstance = instance_create_layer(0, 0, "Towers", tower1);
 	
 		/// @DnDAction : YoYo Games.Common.Variable
 		/// @DnDVersion : 1

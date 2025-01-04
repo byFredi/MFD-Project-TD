@@ -9,5 +9,5 @@ with(other) instance_destroy();
 /// @DnDHash : 3AEDBB47
 /// @DnDArgument : "expr" "-5"
 /// @DnDArgument : "expr_relative" "1"
-/// @DnDArgument : "var" "obj_MoneyManager.playerhp"
-obj_MoneyManager.playerhp += -5;
+/// @DnDArgument : "var" "obj_MoneyManager.playerHP"
+obj_MoneyManager.playerHP += -5;

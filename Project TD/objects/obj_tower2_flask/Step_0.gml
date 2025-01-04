@@ -22,8 +22,9 @@ if(distance_to_point(target_x, target_y) <= 0){	/// @DnDAction : YoYo Games.In
 	/// @DnDArgument : "ypos" "target_y"
 	/// @DnDArgument : "var" "currentSoup"
 	/// @DnDArgument : "objectid" "obj_tower2_soup"
+	/// @DnDArgument : "layer" ""Towers""
 	/// @DnDSaveInfo : "objectid" "obj_tower2_soup"
-	currentSoup = instance_create_layer(target_x, target_y, "Instances", obj_tower2_soup);
+	currentSoup = instance_create_layer(target_x, target_y, "Towers", obj_tower2_soup);
 
 	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 	/// @DnDVersion : 1
@@ -34,5 +35,5 @@ if(distance_to_point(target_x, target_y) <= 0){	/// @DnDAction : YoYo Games.In
 /// @DnDAction : YoYo Games.Miscellaneous.Debug_Show_Message
 /// @DnDVersion : 1
 /// @DnDHash : 77FFF0C9
-/// @DnDDisabled : 1
 /// @DnDArgument : "msg" "distance_to_point(target_x, target_y)"
+show_debug_message(string(distance_to_point(target_x, target_y)));

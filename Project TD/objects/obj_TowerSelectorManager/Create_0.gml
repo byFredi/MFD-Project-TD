@@ -15,10 +15,10 @@ tower2Revealed = false;
 /// @DnDInput : 2
 /// @DnDArgument : "expr" "30"
 /// @DnDArgument : "expr_1" "50"
-/// @DnDArgument : "var" "tower1price"
-/// @DnDArgument : "var_1" "tower2price"
-tower1price = 30;
-tower2price = 50;
+/// @DnDArgument : "var" "tower1Price"
+/// @DnDArgument : "var_1" "tower2Price"
+tower1Price = 30;
+tower2Price = 50;
 
 /// @DnDAction : YoYo Games.Data Structures.Create_Map
 /// @DnDVersion : 1
@@ -32,8 +32,8 @@ towerPrice = ds_map_create();
 /// @DnDInput : 2
 /// @DnDArgument : "var" "towerPrice"
 /// @DnDArgument : "key" "1"
-/// @DnDArgument : "value" "tower1price"
+/// @DnDArgument : "value" "tower1Price"
 /// @DnDArgument : "key_1" "2"
-/// @DnDArgument : "value_1" "tower2price"
-ds_map_replace(towerPrice, 1, tower1price);
-ds_map_replace(towerPrice, 2, tower2price);
+/// @DnDArgument : "value_1" "tower2Price"
+ds_map_replace(towerPrice, 1, tower1Price);
+ds_map_replace(towerPrice, 2, tower2Price);
