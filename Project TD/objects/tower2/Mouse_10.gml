@@ -11,5 +11,6 @@ if(isPlaced){	/// @DnDAction : YoYo Games.Instances.Create_Instance
 	/// @DnDArgument : "ypos_relative" "1"
 	/// @DnDArgument : "var" "tower2radius"
 	/// @DnDArgument : "objectid" "obj_tower2_radius"
+	/// @DnDArgument : "layer" ""Towers""
 	/// @DnDSaveInfo : "objectid" "obj_tower2_radius"
-	tower2radius = instance_create_layer(x + 0, y + 0, "Instances", obj_tower2_radius);}
+	tower2radius = instance_create_layer(x + 0, y + 0, "Towers", obj_tower2_radius);}

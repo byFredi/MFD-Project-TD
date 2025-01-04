@@ -5,6 +5,6 @@
 /// @DnDArgument : "expr" "50"
 /// @DnDArgument : "expr_1" "60"
 /// @DnDArgument : "var" "money"
-/// @DnDArgument : "var_1" "playerhp"
+/// @DnDArgument : "var_1" "playerHP"
 money = 50;
-playerhp = 60;
+playerHP = 60;

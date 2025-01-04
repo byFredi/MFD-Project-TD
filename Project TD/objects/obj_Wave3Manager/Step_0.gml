@@ -21,8 +21,9 @@ if(obj_WaveManager.currentEnemy == 1){	/// @DnDAction : YoYo Games.Instances.I
 			/// @DnDHash : 72831B57
 			/// @DnDParent : 3EA99707
 			/// @DnDArgument : "objectid" "obj_w3_e1"
+			/// @DnDArgument : "layer" ""Enemies""
 			/// @DnDSaveInfo : "objectid" "obj_w3_e1"
-			instance_create_layer(0, 0, "Instances", obj_w3_e1);
+			instance_create_layer(0, 0, "Enemies", obj_w3_e1);
 		
 			/// @DnDAction : YoYo Games.Common.Variable
 			/// @DnDVersion : 1
@@ -55,8 +56,9 @@ if(obj_WaveManager.currentEnemy == 2){	/// @DnDAction : YoYo Games.Instances.I
 			/// @DnDHash : 20F0CC53
 			/// @DnDParent : 59B1B33E
 			/// @DnDArgument : "objectid" "obj_w3_e2"
+			/// @DnDArgument : "layer" ""Enemies""
 			/// @DnDSaveInfo : "objectid" "obj_w3_e2"
-			instance_create_layer(0, 0, "Instances", obj_w3_e2);
+			instance_create_layer(0, 0, "Enemies", obj_w3_e2);
 		
 			/// @DnDAction : YoYo Games.Common.Variable
 			/// @DnDVersion : 1
@@ -89,8 +91,9 @@ if(obj_WaveManager.currentEnemy == 3){	/// @DnDAction : YoYo Games.Instances.I
 			/// @DnDHash : 2CDFB837
 			/// @DnDParent : 29559960
 			/// @DnDArgument : "objectid" "obj_w3_e3"
+			/// @DnDArgument : "layer" ""Enemies""
 			/// @DnDSaveInfo : "objectid" "obj_w3_e3"
-			instance_create_layer(0, 0, "Instances", obj_w3_e3);
+			instance_create_layer(0, 0, "Enemies", obj_w3_e3);
 		
 			/// @DnDAction : YoYo Games.Common.Variable
 			/// @DnDVersion : 1
@@ -123,8 +126,9 @@ if(obj_WaveManager.currentEnemy == 4){	/// @DnDAction : YoYo Games.Instances.I
 			/// @DnDHash : 3B279399
 			/// @DnDParent : 3B665C97
 			/// @DnDArgument : "objectid" "obj_w3_e4"
+			/// @DnDArgument : "layer" ""Enemies""
 			/// @DnDSaveInfo : "objectid" "obj_w3_e4"
-			instance_create_layer(0, 0, "Instances", obj_w3_e4);
+			instance_create_layer(0, 0, "Enemies", obj_w3_e4);
 		
 			/// @DnDAction : YoYo Games.Common.Variable
 			/// @DnDVersion : 1
@@ -157,8 +161,9 @@ if(obj_WaveManager.currentEnemy == 5){	/// @DnDAction : YoYo Games.Instances.I
 			/// @DnDHash : 5A4F32C0
 			/// @DnDParent : 7D65C86E
 			/// @DnDArgument : "objectid" "obj_w3_e5"
+			/// @DnDArgument : "layer" ""Enemies""
 			/// @DnDSaveInfo : "objectid" "obj_w3_e5"
-			instance_create_layer(0, 0, "Instances", obj_w3_e5);
+			instance_create_layer(0, 0, "Enemies", obj_w3_e5);
 		
 			/// @DnDAction : YoYo Games.Common.Variable
 			/// @DnDVersion : 1

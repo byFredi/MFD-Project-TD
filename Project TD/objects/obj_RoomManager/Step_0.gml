@@ -7,9 +7,9 @@ var l3BC07D36_0 = false;l3BC07D36_0 = instance_exists(obj_MoneyManager);if(l3B
 	/// @DnDVersion : 1
 	/// @DnDHash : 518FAE20
 	/// @DnDParent : 3BC07D36
-	/// @DnDArgument : "var" "obj_MoneyManager.playerhp"
+	/// @DnDArgument : "var" "obj_MoneyManager.playerHP"
 	/// @DnDArgument : "op" "3"
-	if(obj_MoneyManager.playerhp <= 0){	/// @DnDAction : YoYo Games.Instances.If_Instance_Exists
+	if(obj_MoneyManager.playerHP <= 0){	/// @DnDAction : YoYo Games.Instances.If_Instance_Exists
 		/// @DnDVersion : 1
 		/// @DnDHash : 774BEFA2
 		/// @DnDParent : 518FAE20
@@ -86,6 +86,7 @@ var l3BC07D36_0 = false;l3BC07D36_0 = instance_exists(obj_MoneyManager);if(l3B
 		/// @DnDHash : 5F5E97F9
 		/// @DnDParent : 518FAE20
 		/// @DnDArgument : "obj" "obj_Wave5Manager"
+		/// @DnDSaveInfo : "obj" "obj_Wave5Manager"
 		var l5F5E97F9_0 = false;l5F5E97F9_0 = instance_exists(obj_Wave5Manager);if(l5F5E97F9_0){	/// @DnDAction : YoYo Games.Time.If_Time_Source_Exists
 			/// @DnDVersion : 1
 			/// @DnDHash : 41FA76AD

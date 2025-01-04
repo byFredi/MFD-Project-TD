@@ -360,8 +360,9 @@ if(isPlaced == true){	/// @DnDAction : YoYo Games.Common.If_Variable
 				/// @DnDArgument : "ypos_relative" "1"
 				/// @DnDArgument : "var" "currentFlask"
 				/// @DnDArgument : "objectid" "obj_tower2_flask"
+				/// @DnDArgument : "layer" ""Towers""
 				/// @DnDSaveInfo : "objectid" "obj_tower2_flask"
-				currentFlask = instance_create_layer(x + 0, y + 0, "Instances", obj_tower2_flask);
+				currentFlask = instance_create_layer(x + 0, y + 0, "Towers", obj_tower2_flask);
 			
 				/// @DnDAction : YoYo Games.Common.Variable
 				/// @DnDVersion : 1

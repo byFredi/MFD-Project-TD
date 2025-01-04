@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Killzone",
-    "path":"sprites/Killzone/Killzone.yy",
+    "name":"WitchSoup",
+    "path":"sprites/WitchSoup/WitchSoup.yy",
   },
   "spriteMaskId":null,
   "visible":true,

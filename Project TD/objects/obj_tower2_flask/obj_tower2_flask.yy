@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite2",
-    "path":"sprites/Sprite2/Sprite2.yy",
+    "name":"giftball",
+    "path":"sprites/giftball/giftball.yy",
   },
   "spriteMaskId":null,
   "visible":true,
